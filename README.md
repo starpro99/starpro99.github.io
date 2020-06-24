@@ -56,7 +56,7 @@
 
 가격대는 평균 삽겹살, 목살기준 1인 13,000원 정도입니다.
 
-<img src = "https://map.naver.com/v5/entry/place/1059407133" width="20">
+<img src = "http://blogfiles.naver.net/MjAxNjEwMjhfMTI0/MDAxNDc3NTgxMDIwMTcw.EbDcX7ky0Cd27M4jzk39YEKqhNn4jQbnotBc_8N0opcg.BtHW0_jx6kwgp-elX-098UbFDH3rn4AeBFh-fv-0QKMg.JPEG.isac20000/%C0%B0%C7%B3-%B8%C5%C6%AE%BD%C3%BE%C8-188x106-004.jpg" width="20">
 
 
 ## 꼬꼬아찌 숯불치킨
@@ -78,7 +78,7 @@
 
 가격대는 숯불 순살치킨 한마리 기준 18,000원 정도입니다.
 
-<img src = "https://map.naver.com/v5/entry/place/1937755617" width="20">
+<img src = "http://blogfiles.naver.net/MjAxODAyMDVfMTgw/MDAxNTE3ODE2OTMwNTk2.iVliVNsLigp5IPqq8fl9P1pmM9Wf2W2hAYCAz-PTfmIg.qfIs0MlRd87GU1NPt98vkbPdIr8kTrP9wQI0NP5tHUog.JPEG.shinhyang90/IMG_0363.jpg" width="20">
 
 
 ## 스시오
@@ -92,7 +92,7 @@
 
 가격대는 평일 런치 12,900원, 평일 디너 혹은 주말 16,900원입니다.
 
-<img src = "https://map.naver.com/v5/entry/place/35052170" width="20">
+<img src = "http://post.phinf.naver.net/20150529_214/whrns352_1432891743237Y4AbU_JPEG/mug_obj_201505291829038365.jpg" width="20">
 
 
 ## 가격대별 표 정리
