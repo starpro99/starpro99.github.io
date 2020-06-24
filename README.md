@@ -22,7 +22,7 @@
 
 더운 여름 부담없이 가셔서 시원한 냉국수 한 그릇 추천드립니다.
 
-<img src = "https://map.naver.com/v5/entry/place/36177754" width="20">
+<img src = "http://blogfiles.naver.net/MjAxODA3MDRfMTE0/MDAxNTMwNjkyNjE0MTE5.KtUnpiao45G-F6NfCqW3CeLE7-BqX_NwQBb0xnBgwjwg.AzamRL4F6ge_chpppWmTax5UK6I7g2wBQljkQ9gKCkAg.JPEG.ggtour21/%B1%B9%BC%F6%B3%AA%B9%AB3.jpg" width="20">
 
 
 ## 노마세야 매운 갈비찜
@@ -38,7 +38,7 @@
 
 매콤한 갈비찜이 당기실 때 가시면 좋을 것 같습니다.
 
-<img src = "https://map.naver.com/v5/entry/place/35103450" width="20">
+<img src = "http://post.phinf.naver.net/20160816_245/14713406929595AyRd_JPEG/IR6iydp-LtC3YIIRib3NF-d_H7R4.jpg" width="20">
 
 
 ## 육풍
