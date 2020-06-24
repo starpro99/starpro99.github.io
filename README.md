@@ -38,7 +38,7 @@
 
 매콤한 갈비찜이 당기실 때 가시면 좋을 것 같습니다.
 
-<img src = "http://post.phinf.naver.net/20160816_245/14713406929595AyRd_JPEG/IR6iydp-LtC3YIIRib3NF-d_H7R4.jpg" width="2000">
+<img src = "http://post.phinf.naver.net/20160816_245/14713406929595AyRd_JPEG/IR6iydp-LtC3YIIRib3NF-d_H7R4.jpg" width="1000">
 
 
 ## 육풍
@@ -92,7 +92,7 @@
 
 가격대는 평일 런치 12,900원, 평일 디너 혹은 주말 16,900원입니다.
 
-<img src = "http://post.phinf.naver.net/20150529_214/whrns352_1432891743237Y4AbU_JPEG/mug_obj_201505291829038365.jpg" width="500">
+<img src = "http://post.phinf.naver.net/20150529_214/whrns352_1432891743237Y4AbU_JPEG/mug_obj_201505291829038365.jpg" width="350">
 
 
 ## 가격대별 표 정리
