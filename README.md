@@ -92,7 +92,7 @@
 
 가격대는 평일 런치 12,900원, 평일 디너 혹은 주말 16,900원입니다.
 
-<img src = "http://post.phinf.naver.net/20150529_214/whrns352_1432891743237Y4AbU_JPEG/mug_obj_201505291829038365.jpg" width="2000">
+<img src = "http://post.phinf.naver.net/20150529_214/whrns352_1432891743237Y4AbU_JPEG/mug_obj_201505291829038365.jpg" width="500">
 
 
 ## 가격대별 표 정리
